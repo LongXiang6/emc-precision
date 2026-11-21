@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.emcprecision.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["MappingHandler", "TeamLedgerData", "TeamLedgerProvider"],
+  "injectors": {"defaultRequire": 1}
+}
